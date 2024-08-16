@@ -1,0 +1,3 @@
+[submodule "lib/ethereal"]
+	path = lib/ethereal
+	url = https://github.com/ghostnear/ethereal
